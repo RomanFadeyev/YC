@@ -582,7 +582,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>pPtORsasJKoRyvduKOAfLEQW1BF9ApT6AuBu0+JrMU4=</dsig:DigestValue>
+      <dsig:DigestValue>VgLDuxedjsHnMUsR7GcJI0yX1rQmXsVttG4XCUE0PCo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="selenium-manager\linux\selenium-manager" size="5850560">
